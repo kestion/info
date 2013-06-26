@@ -1,7 +1,15 @@
+<nav>
+	<ul>
+		<li><a href="index.php?page=portfolio">works</a></li>
+		<li><a href="index.php?page=home">home</a></li>
+		<li><a class="current"  href="index.php?page=resume">resume</a></li>
+	</ul>
+</nav>
+
 <div id="cv">
 
 	<div class="pdf_brochure">
-		<a href="cv.pdf"><img src="assets/images/download.png" /></a>
+		<a href="cv.pdf" target="_blank"><img src="assets/images/download.png" /></a>
 	</div>
 	
 	<div class="clear"> </div>
@@ -83,7 +91,9 @@
 				<span class="emph">CMS</span> - Magento, Prestashop, Wordpress<br /><br />
 				<span class="emph">Framework</span> - Zend, CakePHP, FuelPHP, Kohana<br /><br />
 				<span class="emph">Fluent</span> - English/French<br /><br />
-				<span class="emph">School Level</span> - Italian/Russian/Japanese<br /><br />
+				<span class="emph">Intermediate</span> - Italian<br /><br />
+				<span class="emph">School Level</span> - Russian<br /><br />
+				<span class="emph">Notions</span> - Japanese<br /><br />
 			</div>
 		</div>
 		

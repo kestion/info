@@ -1,4 +1,0 @@
-loic
-====
-
-LOIC - PORTFOLIO
